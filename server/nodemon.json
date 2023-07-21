@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"sahilkarn03",
+        "DB_PASSWORD":"DqQM7EQLc9mqIYTn",
+        "DB_NAME":"Social-Media",
+        "JWT_KEY" : "34c49ab4ca8b54cf10cf81c4e6de07fe"
+    }
+}
